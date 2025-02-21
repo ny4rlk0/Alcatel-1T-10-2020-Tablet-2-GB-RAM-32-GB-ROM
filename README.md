@@ -7,3 +7,4 @@ WIFI Fix Location: /mnt/vendor/nvdata/APCFG/APRDEB/
 <br>File Manager: Total Commander
 <br>Root Status: Required! To get first root app, Patch with magisk and flash file with SP flash Tool.
 <br>Pick the ones you want and Flash zip files  with [Ex Kernel Manager](https://play.google.com/store/apps/details?id=flar2.exkernelmanager&pli=1)
+<br>Firmware: [Download](https://www.needrom.com/download/alcatel-1t10-smart-8092/)
