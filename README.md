@@ -2,6 +2,7 @@
 WIFI Fix Location: /mnt/vendor/nvdata/APCFG/APRDEB/
 ![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/wifi.png)
 ![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/bt.png)
+![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/TotalCommander.PNG)
 <br>Permissions User:rw- Group:rw- Everybody:---
 <br>Yellow glowed line is MAC address that you can change inside WIFI and BT_Addr file. Using WinHEX!
 <br>File Manager: Total Commander
