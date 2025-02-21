@@ -24,8 +24,8 @@ WIFI Fix Location: /mnt/vendor/nvdata/APCFG/APRDEB/
 <br>Turn off Bluetooth and WiFi.(?)
 <br>Copy all of the files to computer. (BT_ADDR, WIFI and WIFI_Custom)
 <br>Open WIFI and BT_Addr with WinHex.
-![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/wifi.png)
-![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/bt.png)
+<br>![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/wifi.png)
+<br>![alt_text](https://github.com/ny4rlk0/Alcatel-1T-10-2020-Tablet-2-GB-RAM-32-GB-ROM/blob/main/bt.png)
 <br>Change the mac address as selected in yellow color on picture to your liking and save files.
 <br>Put the files back to /mnt/vendor/nvdata/APCFG/APRDEB/
 <br>Set all of the file permisions to User:r-- Group:r-- Everybody:r--
